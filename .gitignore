@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 alchemy/
 __pycache__/
+*.cppgi
 *.py[codz]
 *$py.class
 
